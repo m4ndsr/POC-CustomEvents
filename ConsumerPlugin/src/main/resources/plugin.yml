@@ -2,3 +2,5 @@ name: ConsumerPlugin
 version: '${project.version}'
 main: me.m4ndsr.consumerplugin.ConsumerPlugin
 api-version: '1.20'
+softdepend:
+  - ProviderPlugin
