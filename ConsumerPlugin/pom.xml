@@ -71,6 +71,7 @@
           <groupId>me.m4ndsr</groupId>
           <artifactId>providerplugin</artifactId>
           <version>1.0.0</version>
+          <scope>provided</scope>
       </dependency>
   </dependencies>
 </project>
