@@ -1,0 +1,4 @@
+name: ProviderPlugin
+version: '${project.version}'
+main: me.m4ndsr.providerplugin.ProviderPlugin
+api-version: '1.20'
